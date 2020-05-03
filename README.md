@@ -2,10 +2,10 @@
 
 
 
-## This project analyzes the data related to the United Nation's Global Sustainable Development Goal 12: "Ensure sustainable consumption and production patterns," in order to visualize trends and predict if the targets will be met by the goal target's deadlines of 2020 and 2030.
+### This project analyzes the data related to the United Nation's Global Sustainable Development Goal 12: "Ensure sustainable consumption and production patterns," in order to visualize trends and predict if the targets will be met by the goal target's deadlines of 2020 and 2030.
 
 
-### Goal and targets are as followed:
+### Goal and targets are as follows:
 
 GOAL 12
   Ensure sustainable consumption and production patterns
