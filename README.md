@@ -25,7 +25,7 @@
 ###### TARGET 12.c:  
   Rationalize inefficient fossil-fuel subsidies that encourage wasteful consumption by removing market distortions, in accordance with national circumstances, including by restructuring taxation and phasing out those harmful subsidies, where they exist, to reflect their environmental impacts, taking fully into account the specific needs and conditions of developing countries and minimizing the possible adverse impacts on their development in a manner that protects the poor and the affected communities
 
-###### TARGETTARGET 12.b  
+###### TARGET 12.b  
   Develop and implement tools to monitor sustainable development impacts for sustainable tourism that creates jobs and promotes local culture and products
 
 
