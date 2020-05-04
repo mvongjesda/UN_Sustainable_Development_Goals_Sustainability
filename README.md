@@ -29,4 +29,4 @@
   Develop and implement tools to monitor sustainable development impacts for sustainable tourism that creates jobs and promotes local culture and products
 
 
-Imported xlsx files and information on goal 12 are from the UN's SDG database website: https://unstats.un.org/sdgs/indicators/database with a total of 375,264 data observations related to the sustainability goal.
+Imported xlsx files and information on goal 12 are from the UN's SDG database website: https://unstats.un.org/sdgs/indicators/database with a total of 375,264 data observations related to the sustainability goal.  However, due to incomplete data from some of the target datasets, we will be focus on the data from Target 12.2 and Target 12.4.
