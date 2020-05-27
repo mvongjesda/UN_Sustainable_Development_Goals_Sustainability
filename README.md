@@ -1,4 +1,6 @@
-# UN_Sustainable_Development_Goals_Sustainability
+# UN_Sustainable_Development_Goals_Sustainability  
+
+<img src="SDGoals_UN/Resources/assets/images/sdgs.png" width="150">
 
 ### This project analyzes the data related to the United Nation's Global Sustainable Development Goal 12: "Ensure sustainable consumption and production patterns," in order to visualize trends and predict if the targets will be met by the goal target's deadlines of 2020 and 2030.
 
