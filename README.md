@@ -1,6 +1,6 @@
 # UN_Sustainable_Development_Goals_Sustainability  
 
-<img src="SDGoals_UN/Resources/assets/images/sdgs.png" width="150">
+![UN SDG](https://unstats.un.org/sdgs/indicators/en/assets/logo.png)
 
 ### This project analyzes the data related to the United Nation's Global Sustainable Development Goal 12: "Ensure sustainable consumption and production patterns," in order to visualize trends and predict if the targets will be met by the goal target's deadlines of 2020 and 2030.
 
@@ -12,3 +12,5 @@ The [project website](https://mvongjesda.github.io/UN_Sustainable_Development_Go
 
 
 ### Conclusions: Although overall, progress is being made to increase sustainability, progress is different for each target due to differences in country regulations.  See project website for more thorough analysis.
+
+<img src="SDGoals_UN/Resources/assets/images/sdgs.png" width="150">
