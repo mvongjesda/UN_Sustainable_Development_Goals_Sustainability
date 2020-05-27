@@ -4,7 +4,7 @@
 
 ### This project analyzes the data related to the United Nation's Global Sustainable Development Goal 12: "Ensure sustainable consumption and production patterns," in order to visualize trends and predict if the targets will be met by the goal target's deadlines of 2020 and 2030.
 
-Imported xlsx files (found under the "resources/data" folder) and information on Goal 12 are from the [UN's SDG database website](https://unstats.un.org/sdgs/indicators/database) with a total of 375,264 data observations related to the sustainability goal.
+Imported xlsx files (found under the "resources/data" folder), images, and information on Goal 12 are from the [UN's SDG database website](https://unstats.un.org/sdgs/indicators/database) with a total of 375,264 data observations related to the sustainability goal.
 
 The HTML/css/bootstrap website files can be found under the "SDGoals_UN" folder and the landing page can be found [here](SDGoals_UN/landing.html).
   
